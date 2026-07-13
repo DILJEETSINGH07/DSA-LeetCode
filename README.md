@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
