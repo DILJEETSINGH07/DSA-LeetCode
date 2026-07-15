@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
