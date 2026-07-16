@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -43,8 +45,13 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
