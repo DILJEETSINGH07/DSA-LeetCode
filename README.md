@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
@@ -53,5 +55,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
