@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
@@ -23,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
@@ -57,4 +59,8 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
