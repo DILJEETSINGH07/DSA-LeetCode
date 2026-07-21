@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
