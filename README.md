@@ -74,4 +74,20 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
