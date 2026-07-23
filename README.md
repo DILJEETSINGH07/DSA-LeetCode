@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
