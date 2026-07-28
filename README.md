@@ -85,11 +85,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -100,6 +102,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
 ## Stack
 |  |
@@ -109,4 +112,5 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
