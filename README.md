@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -51,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0089-gray-code) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
