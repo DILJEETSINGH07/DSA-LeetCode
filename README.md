@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [0100-same-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -134,4 +138,8 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
