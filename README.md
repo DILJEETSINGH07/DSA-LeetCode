@@ -20,6 +20,7 @@
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0101-symmetric-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0101-symmetric-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -138,8 +141,10 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
