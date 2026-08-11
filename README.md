@@ -11,6 +11,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0091-decode-ways](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
