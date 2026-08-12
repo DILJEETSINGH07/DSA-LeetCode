@@ -43,6 +43,7 @@
 | [0093-restore-ip-addresses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0101-symmetric-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,4 +162,8 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
