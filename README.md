@@ -25,6 +25,7 @@
 | [0118-pascals-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
