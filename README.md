@@ -17,6 +17,7 @@
 | [0027-remove-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -31,6 +32,7 @@
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
@@ -68,6 +70,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0097-interleaving-string) |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -246,4 +250,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
