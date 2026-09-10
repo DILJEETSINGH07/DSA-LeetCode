@@ -19,6 +19,7 @@
 | [0031-next-permutation](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0120-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0139-word-break) |
+| [0283-move-zeroes](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
