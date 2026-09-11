@@ -41,11 +41,13 @@
 | [0120-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -256,4 +260,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
