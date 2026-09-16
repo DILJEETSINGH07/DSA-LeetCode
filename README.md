@@ -18,6 +18,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## Array
@@ -34,6 +35,7 @@
 | [0039-combination-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
