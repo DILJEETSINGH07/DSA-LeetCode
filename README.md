@@ -35,6 +35,7 @@
 | [0039-combination-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -80,6 +81,7 @@
 | [0022-generate-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -283,6 +285,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
