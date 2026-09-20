@@ -47,12 +47,14 @@
 | [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0274-h-index) |
 ## String
 |  |
 | ------- |
@@ -288,4 +290,8 @@
 | [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
