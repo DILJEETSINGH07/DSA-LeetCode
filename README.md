@@ -49,6 +49,7 @@
 | [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0043-multiply-strings](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0089-gray-code) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,4 +297,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
