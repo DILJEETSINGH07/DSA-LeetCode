@@ -37,6 +37,7 @@
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -113,6 +114,7 @@
 | [0013-roman-to-integer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
 ## Trie
 |  |
 | ------- |
