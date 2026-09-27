@@ -38,6 +38,7 @@
 | [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0274-h-index) |
 ## String
@@ -74,6 +76,7 @@
 | [0032-longest-valid-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -133,6 +136,7 @@
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
