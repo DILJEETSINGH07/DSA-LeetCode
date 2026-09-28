@@ -119,6 +119,7 @@
 | [0043-multiply-strings](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Bit Manipulation
@@ -165,6 +166,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
