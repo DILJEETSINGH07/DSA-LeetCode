@@ -40,6 +40,7 @@
 | [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0274-h-index) |
 ## String
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
