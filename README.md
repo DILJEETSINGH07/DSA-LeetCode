@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -163,6 +164,7 @@
 | [0036-valid-sudoku](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
 ## Trie
 |  |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
