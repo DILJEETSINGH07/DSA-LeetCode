@@ -43,6 +43,7 @@
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -98,6 +99,7 @@
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -166,6 +168,7 @@
 | [0037-sudoku-solver](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
 ## Trie
 |  |
