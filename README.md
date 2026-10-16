@@ -46,6 +46,7 @@
 | [0064-minimum-path-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
@@ -100,6 +101,7 @@
 | [0045-jump-game-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -170,6 +172,7 @@
 | [0059-spiral-matrix-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 ## Trie
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -305,6 +309,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 ## Counting
 |  |
 | ------- |
