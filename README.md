@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
@@ -126,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0043-multiply-strings) |
@@ -187,6 +189,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 ## Tree
