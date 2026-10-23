@@ -86,6 +86,7 @@
 | [0043-multiply-strings](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search Tree
