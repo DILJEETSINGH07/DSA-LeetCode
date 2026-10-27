@@ -10,6 +10,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
@@ -208,6 +209,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -220,6 +222,7 @@
 | [0101-symmetric-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0133-clone-graph) |
 ## Breadth-First Search
@@ -229,6 +232,7 @@
 | [0101-symmetric-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0133-clone-graph) |
 ## Binary Tree
@@ -245,6 +249,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Stack
 |  |
