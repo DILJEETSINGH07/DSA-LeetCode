@@ -94,6 +94,7 @@
 | [0097-interleaving-string](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@
 | [0119-pascals-triangle-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/DILJEETSINGH07/DSA-LeetCode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
